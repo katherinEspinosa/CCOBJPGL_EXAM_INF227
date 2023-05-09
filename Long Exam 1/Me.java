@@ -1,5 +1,3 @@
-import javax.security.auth.callback.ChoiceCallback;
-
 public class Me implements Tourist {
 
     static int budget = 1000;
